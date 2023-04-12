@@ -54,8 +54,7 @@ client.disconnect()
 
 ## Demo
 
-![Demo](https://github.com/sayali1998/ThingsBoard/blob/main/Recording.mov)
-
+[![Alt text](https://img.youtube.com/vi/YOUTUBE_VIDEO_ID/0.jpg)](https://github.com/sayali1998/ThingsBoard/blob/main/Recording.mov)
 
 ## 🛠 Skills
 Internet of things, Python
