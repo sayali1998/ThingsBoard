@@ -54,7 +54,7 @@ client.disconnect()
 
 ## Demo
 
-https://github.com/sayali1998/ThingsBoard/blob/main/Recording.mov
+![Demo](https://github.com/sayali1998/ThingsBoard/blob/main/Recording.gif)
 
 ## 🛠 Skills
 Internet of things, Python
